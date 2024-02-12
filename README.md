@@ -12,3 +12,13 @@ The `cdk.json` file tells the CDK Toolkit how to execute your app.
 * `cdk deploy`      deploy this stack to your default AWS account/region
 * `cdk diff`        compare deployed stack with current state
 * `cdk synth`       emits the synthesized CloudFormation template
+
+
+https://www.piesocket.com/websocket-tester
+
+wss://bbpi851oua.execute-api.us-east-1.amazonaws.com/dev/
+
+▲ {"action":"setname", "message": "marcio"}
+
+▲ {"action":"setname", "message": "ale"}
+▲ {"action":"sendpublicmessage", "message": "oiiii"}
